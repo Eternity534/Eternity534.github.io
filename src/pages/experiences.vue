@@ -18,16 +18,26 @@
 <script setup lang="ts">
 const experiences = [
   {
-    date: '2023 - Présent',
-    role: 'Développeur Front-End',
-    company: 'Tech Solutions',
-    description: 'Développement d’interfaces Vue.js, migration vers Nuxt 3.'
+    date: 'Mars 2024 - Présent',
+    role: 'Président',
+    company: 'Bureaux des Jeux',
+    description: `Président de l'association Bureau des Jeux de l'ESIEA`
   },
   {
-    date: '2022 - 2023',
-    role: 'Stage Développeur Web',
-    company: 'Web Agency',
-    description: 'Création de sites vitrines et intégration de maquettes.'
+    date: 'Novembre 2023 - Juillet 2024',
+    role: 'Enseignant en informatique bénévole pour seniors',
+    company: 'Mairie du Vème, Paris',
+    description: `Apprendre les bases de l'informatique aux seniors, dans le cadre du « Projet à impact RSE » de l'ESIEA, avec 7 autres étudiants de l'école, pour répondre à l'un des 17 objectifs de développement durable de l'ONU (« Lutte contre l’isolement des seniors » à travers un apprentissage numérique).`
+  },
+  {
+    date: 'Juin 2023 - Juillet 2023',
+    role: 'Stagiaire informatique',
+    company: 'SiGMA World, Msida, Malte',
+    description: `Configurer et gérer les onboardings des nouveaux employés
+  Gérer les serveurs de stockage de fichiers
+  Générer des rapports sur l'équipements de l'utilisateur pour l’administrateur réseaux
+  Maintenance informatique
+  Gérer le système informatique d'entrée dans les locaux de l'entreprise`
   }
 ]
 </script>

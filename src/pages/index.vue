@@ -7,11 +7,6 @@
             Sur ce site, vous pouvez retrouver mon parcours académique, mes expériences professionnelles, mes projets et mes compétences.
             Vous avez aussi une section contacts si vous souhaitez me faire un retour sur le site ou juste parler d'une expérience ou d'un projet avec moi !
         </p>
-
-        <div class="actions">
-            <NuxtLink to="/projets" class="btn">Voir mes projets</NuxtLink>
-            <NuxtLink to="/contacts" class="btn">Me contacter</NuxtLink>
-        </div>
     </div>
 </template>
 
