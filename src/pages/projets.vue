@@ -40,16 +40,9 @@ const projets = [
   {
     id: 1,
     title: 'Portfolio Nuxt',
-    description: 'Ce site web ! Créé avec Nuxt 3, TypeScript et déployé sur GitHub Pages.',
-    tags: ['Nuxt 3', 'Vue.js', 'GitHub Actions'],
+    description: 'Ce site web ! Créé avec Vite, TypeScript et déployé sur GitHub Pages.',
+    tags: ['Vite', 'Vue.js', 'GitHub Actions'],
     link: 'https://github.com/...'
-  },
-  {
-    id: 2,
-    title: 'To-Do App',
-    description: 'Une application de gestion de tâches avec stockage local.',
-    tags: ['JavaScript', 'CSS', 'LocalStorage'],
-    link: '#'
   }
 ]
 </script>
