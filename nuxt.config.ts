@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   // Configuration critique pour GitHub Pages
   app: {
     baseURL: '/',
-    buildAssetsDir: '/_nuxt/',
+    buildAssetsDir: 'assets',
   },
 
   nitro: {
